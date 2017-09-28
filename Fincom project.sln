@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.26730.8
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fincom project", "Fincom project\Fincom project.csproj", "{BF8AA3B8-3805-4F28-83C5-F28436D0FB0F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Fincom project", "Fincom project\Fincom project.csproj", "{BF8AA3B8-3805-4F28-83C5-F28436D0FB0F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "fincom.core", "fincom.core\fincom.core.csproj", "{D722809F-E73F-49E8-84F1-2062D61828D0}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{BF8AA3B8-3805-4F28-83C5-F28436D0FB0F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BF8AA3B8-3805-4F28-83C5-F28436D0FB0F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BF8AA3B8-3805-4F28-83C5-F28436D0FB0F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D722809F-E73F-49E8-84F1-2062D61828D0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D722809F-E73F-49E8-84F1-2062D61828D0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D722809F-E73F-49E8-84F1-2062D61828D0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D722809F-E73F-49E8-84F1-2062D61828D0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
